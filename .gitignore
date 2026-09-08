@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+analysis/output/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Entorno local (config de Claude Code de esta máquina, no del proyecto)
+.claude/
+
+# macOS
+.DS_Store
