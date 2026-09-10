@@ -1,4 +1,4 @@
-# Radiografía del Sector Asegurador Colombiano
+# Análisis Descriptivo del Sector Asegurador Colombiano
 
 > **Proyecto personal e independiente.** Construido íntegramente sobre
 > datos públicos oficiales de datos.gov.co. No usa, reproduce ni se
